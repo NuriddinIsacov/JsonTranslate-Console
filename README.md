@@ -1,2 +1,2 @@
 # JsonTranslate-Console
-# Json ma'lumotni tarjima qiluvchi dastur
+### Json ma'lumotni tarjima qiluvchi dastur
